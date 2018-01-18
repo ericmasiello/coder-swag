@@ -99,8 +99,8 @@
 		4DA2FD9C20092AE100B3C1BB /* View */ = {
 			isa = PBXGroup;
 			children = (
-				071AF5E6200E3AA9000420CD /* ProductCell.swift */,
 				4DA2FD9E200946DD00B3C1BB /* CategoryCell.swift */,
+				071AF5E6200E3AA9000420CD /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
